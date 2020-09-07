@@ -39,24 +39,12 @@ s	115	0111 0011
 
 Parte 3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Vangrant é um software de programação, gerenciamento e criptografia totalmente online, sem a necessidade de intalação.
+Essa ferramenta funciona como scripts de shell, Chef ou Puppet, que pode instalar e configurar software automaticamente na máquina virtual.
+Irá isolar as dependências e suas configurações dentro de um único ambiente sem prejudicar nenhuma ferramenta (editores, navegadores, depuradores, etc.).
+Trabalha em todos tipos de sitema computacional, Linux, Mac OS X e Windows
+E por fim oferece um ambiente descartável e um fluxo de trabalho consistente para desenvolver e testar scripts de gerenciamento de infraestrutura.
+Usando virtualização local, como VirtualBox ou VMware. Ele pode testar esses scripts em nuvens remotas, como AWS ou RackSpace, com o mesmo fluxo de trabalho.
 
 
 
