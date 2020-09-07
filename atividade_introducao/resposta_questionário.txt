@@ -1,0 +1,11 @@
+Nome: Leonardo Rogério Pazzini Silva Santos
+RA: 1460682023028
+
+Sistema Computacional= sistema operacional - Windows  // software - GIT
+
+Dados= é um registro ou valor sem significado, por exemplo um valor numérico 30
+
+Informação= é um dado com significado, por exemplo temperatura 27°C, que é registro de temperatura
+
+Conhecimento= quando utilizamos o dados da informação, 
+  por exemplo: 0°C, sabe-se que é uma temperatura muito baixa, onde muda o estado da água físico da água.
