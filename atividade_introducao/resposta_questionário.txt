@@ -1,6 +1,12 @@
 Nome: Leonardo Rogério Pazzini Silva Santos
 RA: 1460682023028
 
+-Exercícios 1 à 5
+link github: https://github.com/leonardopazzini/FATEC-TAREFA-INFORMATICA/commit/20151a9627984289cd5778395dac59aa46461280#diff-40d9d00b5ec245aea4847b03e74828a2
+
+
+-Execício 6
+Parte 1
 Sistema Computacional= sistema operacional - Windows  // software - GIT
 
 Dados= é um registro ou valor sem significado, por exemplo um valor numérico 30
@@ -8,4 +14,62 @@ Dados= é um registro ou valor sem significado, por exemplo um valor numérico 3
 Informação= é um dado com significado, por exemplo temperatura 27°C, que é registro de temperatura
 
 Conhecimento= quando utilizamos o dados da informação, 
-  por exemplo: 0°C, sabe-se que é uma temperatura muito baixa, onde muda o estado da água físico da água.
+  	      por exemplo: 0°C, sabe-se que é uma temperatura muito baixa, onde muda o estado da água físico da água.
+
+
+Parte 2 - tabela ASCII
+
+NOME	DECIMAL	BINÁRIO
+L	76	0100 1100
+e	101	0110 0101
+o	111	0110 1111
+n	110	0110 1110
+a	97	0110 0001
+r	114	0111 0010
+d	100	0110 0100
+o	111	0110 1111
+
+S	83	0101 0011
+a	97	0110 0001
+n	110	0110 1110
+t	116	0111 0100
+o	111	0110 1111
+s	115	0111 0011
+
+
+Parte 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
